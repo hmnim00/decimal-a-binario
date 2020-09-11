@@ -1,1 +1,2 @@
-# decimal-a-binario
+# Convertidor decimal a binario (de 8 bits)
+
